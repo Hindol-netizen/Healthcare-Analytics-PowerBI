@@ -6,8 +6,12 @@ The goal is to analyze **hospital admissions, patient demographics, billing patt
 ---
 ## Preview Images
 
-![Schema](Schema.png)
-![Patient_details](Patient_details.png)
+![Schema](images/Schema.png)
+![Fact Cards](images/Fact_Cards.png)
+![Patient details](images/Patient_details.png)
+![Doctor details](images/Doctor_details.png)
+
+---
 
 ## 📂 Project Structure
 
