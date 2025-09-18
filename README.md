@@ -4,6 +4,10 @@ This project showcases a **Healthcare Analytics Dashboard** built in **Power BI*
 The goal is to analyze **hospital admissions, patient demographics, billing patterns, and doctor performance** to gain actionable insights for healthcare management.
 
 ---
+## Preview Images
+
+![Schema](Schema.png)
+![Patient_details](Patient_details.png)
 
 ## 📂 Project Structure
 
